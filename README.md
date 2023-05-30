@@ -24,6 +24,11 @@ Save and Publish the Report: Save your Power BI report locally and then publish 
 
 These steps provide a general overview of creating a Power BI report using the AdventureWorks database. The specific design and layout of your report will depend on your analysis goals and the insights you want to present.
 
+
+## Data
+
+I tried to generate sales data manually for FY2013-2023 manually using POSTGRESQL Server.
+
 ## Data Modeling
 
 <img width="452" alt="image" src="https://github.com/Nik4u22/adventure-works-powerbi-dashboard/assets/64134540/d3729c91-b550-43d8-a41a-d61e8e0a1618">
