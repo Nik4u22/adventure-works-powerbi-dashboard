@@ -8,8 +8,14 @@
 
 <img width="1258" alt="image" src="https://github.com/Nik4u22/adventure-works-powerbi-dashboard/assets/64134540/99e1276a-345f-473c-99d4-50fd490ae631">
 
+<img width="1339" alt="image" src="https://github.com/Nik4u22/adventure-works-powerbi-dashboard/assets/64134540/267df925-a6d0-4a50-bdc2-f28509c03ada">
 
-To create a Power BI report using the AdventureWorks database, you will need to follow these general steps:
+<img width="1339" alt="image" src="https://github.com/Nik4u22/adventure-works-powerbi-dashboard/assets/64134540/3ff43213-0d76-474c-b774-22af2b1ba1de">
+
+<img width="1320" alt="image" src="https://github.com/Nik4u22/adventure-works-powerbi-dashboard/assets/64134540/c9f6157e-f57f-42e0-9689-68025f732770">
+
+
+### To create a Power BI report using the AdventureWorks database, you will need to follow these general steps:
 
 Connect to the AdventureWorks Database: Open Power BI Desktop and click on "Get Data" from the Home tab. Select your preferred method to connect to the database, such as "SQL Server" or "Azure SQL Database." Provide the necessary connection details, such as server name, database name, and authentication method.
 
